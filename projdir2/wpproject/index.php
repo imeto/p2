@@ -2,6 +2,7 @@
 
 echo 123;
 echo 4;
-//echo 56;
+echo 56;
+
 
 
